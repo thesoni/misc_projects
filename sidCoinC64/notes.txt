@@ -1,0 +1,33 @@
+SPRITE GEN
+http://www.spritemate.com/
+
+
+https://www.lemon64.com/forum/viewtopic.php?p=924862
+
+VICE
+https://vice-emu.sourceforge.io/
+
+CBM Prg Studio
+https://www.ajordison.co.uk/download.html
+
+Connect emulator
+Tools -> Options -> Emulator Control
+Set Emulator Path to VICE
+C:\Users\sidds\Documents\installs 2019\GTK3VICE-3.4-win64\GTK3VICE-3.4-win64-r37296\x64sc.exe
+
+Set Project Path also
+D:\20190407_Win7_C_BK\mydocs\programming\c64
+
+
+
+ASSEMBLER
+=========
+https://www.lemon64.com/forum/viewtopic.php?t=69722&highlight=
+
+Create assembler file   
+foo.asm
+
+F5 to create .PGM
+Assembler dump dialog opens.  ESC to close it. VICE opens
+
+SYS 49152
